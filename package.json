@@ -1,0 +1,22 @@
+{
+  "name": "recursive-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sumRange.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuminationWa/recursive-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuminationWa/recursive-practice/issues"
+  },
+  "homepage": "https://github.com/LuminationWa/recursive-practice#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
